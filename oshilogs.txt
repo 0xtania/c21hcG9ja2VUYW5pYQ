@@ -12,73 +12,71 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Tania =====
-[1]Tania       |05:17:54 | 24-10-2026| login OK @taniaawidiani | score=1880 rank=3914
-[1]Tania       |05:17:54 | 24-10-2026| serverTime=2026-10-24T05:17:54.000Z local=2026-10-24T05:17:54.060Z
+[1]Tania       |09:57:29 | 26-10-2026| login OK @taniaawidiani | score=2090 rank=3742
+[1]Tania       |09:57:29 | 26-10-2026| serverTime=2026-10-26T09:57:29.000Z local=2026-10-26T09:57:29.584Z
 --> [1]Tania menjalankan: Claim Daily
-[1]Tania       |05:17:55 | 24-10-2026| daily: OK +10 poin score=1890
---> [1]Tania menjalankan: Auto All Tasks (7 pending)
-[1]Tania       |05:17:57 | 24-10-2026| [1/7] 50de6b49 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/taniaawidiani/status/2113862066987172125
-[1]Tania       |05:17:57 | 24-10-2026| delay 10s...
-[1]Tania       |05:18:09 | 24-10-2026| [2/7] b772e482 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":20,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/taniaawidiani/status/2113862152299386458
-[1]Tania       |05:18:09 | 24-10-2026| delay 10s...
-[1]Tania       |05:18:21 | 24-10-2026| [3/7] 58e687d8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":20,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/taniaawidiani/status/2113862021796467504
-[1]Tania       |05:18:21 | 24-10-2026| delay 10s...
-[1]Tania       |05:18:34 | 24-10-2026| [4/7] 63ae925f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":20,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/taniaawidiani/status/2113862297866512365
-[1]Tania       |05:18:34 | 24-10-2026| delay 10s...
-[1]Tania       |05:18:47 | 24-10-2026| [5/7] c7d975e4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/taniaawidiani/status/2113862483994832649
-[1]Tania       |05:18:47 | 24-10-2026| delay 10s...
-[1]Tania       |05:18:59 | 24-10-2026| [6/7] f59f95ce (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/taniaawidiani/status/2113862384384141844
-[1]Tania       |05:18:59 | 24-10-2026| delay 10s...
-[1]Tania       |05:19:11 | 24-10-2026| [7/7] 63f05488 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/taniaawidiani/status/2113862312785946118
-[1]Tania       |05:19:11 | 24-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Tania       |05:19:13 | 24-10-2026| [1/1] 50de6b49 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113851006337568 | proof=https://x.com/taniaawidiani/status/2113862492475202344
+[1]Tania       |09:57:30 | 26-10-2026| daily: OK +10 poin score=2100
+--> [1]Tania menjalankan: Auto All Tasks (10 pending)
+[1]Tania       |09:57:33 | 26-10-2026| [1/10] 30fecda0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/taniaawidiani/status/2114657097577908221
+[1]Tania       |09:57:33 | 26-10-2026| delay 10s...
+[1]Tania       |09:57:45 | 26-10-2026| [2/10] 1db0caec (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/taniaawidiani/status/2114657255100518936
+[1]Tania       |09:57:45 | 26-10-2026| delay 10s...
+[1]Tania       |09:57:59 | 26-10-2026| [3/10] 494e1b1b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/taniaawidiani/status/2114657336281095482
+[1]Tania       |09:57:59 | 26-10-2026| delay 10s...
+[1]Tania       |09:58:11 | 26-10-2026| [4/10] 9b683957 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/taniaawidiani/status/2114657389237703959
+[1]Tania       |09:58:11 | 26-10-2026| delay 10s...
+[1]Tania       |09:58:24 | 26-10-2026| [5/10] 4262aa80 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/taniaawidiani/status/2114657478551499352
+[1]Tania       |09:58:24 | 26-10-2026| delay 10s...
+[1]Tania       |09:58:36 | 26-10-2026| [6/10] dac9c018 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538
+[1]Tania       |09:58:36 | 26-10-2026| delay 10s...
+[1]Tania       |09:58:48 | 26-10-2026| [7/10] 9edbb28a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/taniaawidiani/status/2114657415589530881
+[1]Tania       |09:58:48 | 26-10-2026| delay 10s...
+[1]Tania       |09:59:01 | 26-10-2026| [8/10] ed948baf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/taniaawidiani/status/2114657558966501899
+[1]Tania       |09:59:01 | 26-10-2026| delay 10s...
+[1]Tania       |09:59:13 | 26-10-2026| [9/10] d23e8d85 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/taniaawidiani/status/2114657505710277669
+[1]Tania       |09:59:13 | 26-10-2026| delay 10s...
+[1]Tania       |09:59:26 | 26-10-2026| [10/10] 33550c8b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/taniaawidiani/status/2114657591495599752
+[1]Tania       |09:59:26 | 26-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Tania       |09:59:28 | 26-10-2026| [1/1] 30fecda0 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2114543843555385 | proof=https://x.com/taniaawidiani/status/2114657884996233984
 --> [1]Tania menjalankan: Watch Anime
-[1]Tania       |05:19:14 | 24-10-2026| watch: semua video sudah completed
+[1]Tania       |09:59:29 | 26-10-2026| watch: semua video sudah completed
 --> [1]Tania menjalankan: Read Article
-[1]Tania       |05:19:16 | 24-10-2026| news: 27/30 artikel selesai dibaca
-[1]Tania       |05:19:17 | 24-10-2026| mint eligibility: {"userId":"1715409411714465792","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Tania       |05:19:23 | 24-10-2026| news [1/3] road-to-mint-2026-10: OK completed=28
-[1]Tania       |05:19:33 | 24-10-2026| news [2/3] community-first-update-2026-10: OK completed=29
-[1]Tania       |05:19:41 | 24-10-2026| news [3/3] oshi-nft-price-and-basic-income-01: OK completed=30
+[1]Tania       |09:59:31 | 26-10-2026| news: 30/30 artikel selesai dibaca
+[1]Tania       |09:59:32 | 26-10-2026| mint eligibility: {"userId":"1715409411714465792","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Tania       |09:59:32 | 26-10-2026| news: semua artikel sudah dibaca
 --> [1]Tania menjalankan: Quiz Anime
-[1]Tania       |05:19:44 | 24-10-2026| quiz ep1: sudah dijawab
-[1]Tania       |05:19:44 | 24-10-2026| quiz ep2: sudah dijawab
-[1]Tania       |05:19:44 | 24-10-2026| quiz ep3: sudah dijawab
-[1]Tania       |05:19:44 | 24-10-2026| quiz ep4: sudah dijawab
-[1]Tania       |05:19:44 | 24-10-2026| quiz ep5: sudah dijawab
-[1]Tania       |05:19:44 | 24-10-2026| quiz ep6: sudah dijawab
 --> [1]Tania menjalankan: Music Missions (realtime, bisa lama!)
-[1]Tania       |05:19:46 | 24-10-2026| music: kedua misi sudah tercapai, stop
-[1]Tania       |05:19:47 | 24-10-2026| mission music-listens-10: sudah diklaim
-[1]Tania       |05:19:47 | 24-10-2026| mission music-minutes-30: sudah diklaim
-[1]Tania       |05:19:47 | 24-10-2026| mission anime-completed-3: sudah diklaim
+[1]Tania       |09:59:36 | 26-10-2026| music: kedua misi sudah tercapai, stop
+[1]Tania       |09:59:37 | 26-10-2026| mission music-listens-10: sudah diklaim
+[1]Tania       |09:59:37 | 26-10-2026| mission music-minutes-30: sudah diklaim
+[1]Tania       |09:59:37 | 26-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Tania menjalankan: Claim Missions
-[1]Tania       |05:19:47 | 24-10-2026| mission music-listens-10: sudah diklaim
-[1]Tania       |05:19:47 | 24-10-2026| mission music-minutes-30: sudah diklaim
-[1]Tania       |05:19:47 | 24-10-2026| mission anime-completed-3: sudah diklaim
+[1]Tania       |09:59:37 | 26-10-2026| mission music-listens-10: sudah diklaim
+[1]Tania       |09:59:37 | 26-10-2026| mission music-minutes-30: sudah diklaim
+[1]Tania       |09:59:37 | 26-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Tania menjalankan: Check Eligibility
 
 --- eligibility [1]Tania ---
-  @taniaawidiani | score=1880 rank=3914
-  tasks    [##############------] 17/24
+  @taniaawidiani | score=2090 rank=3742
+  tasks    [--------------------] 0/10
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
-  quiz     [####################] 6/6
+  quiz     [?]
   watch    [####################] 22/17
-  music    [####################] 11/11
+  music    [##################--] 11/12
   artikel  [####################] 30/30
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Tania menjalankan: Read Manga
-[1]Tania       |05:19:51 | 24-10-2026| manga: 0/13 chapter belum completed
+[1]Tania       |09:59:42 | 26-10-2026| manga: 0/13 chapter belum completed
 --> [1]Tania menjalankan: Get Gift
-[1]Tania       |05:19:52 | 24-10-2026| gift: 0/4 belum diterima
+[1]Tania       |09:59:42 | 26-10-2026| gift: 0/4 belum diterima
 --> [1]Tania menjalankan: Setup Profile
-[1]Tania       |05:19:53 | 24-10-2026| profile: bio="https://x.com/taniaawidiani" fav=amato rewardAt=1791686644
-[1]Tania       |05:19:53 | 24-10-2026| profile: bonus sudah diklaim, skip
+[1]Tania       |09:59:43 | 26-10-2026| profile: bio="https://x.com/taniaawidiani" fav=amato rewardAt=1791686644
+[1]Tania       |09:59:43 | 26-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Tania menjalankan: Bind Wallet
-[1]Tania       |05:19:54 | 24-10-2026| wallet: sudah terikat 7VYPktxK9H... (solana)
+[1]Tania       |09:59:44 | 26-10-2026| wallet: sudah terikat 7VYPktxK9H... (solana)
 
 == RINGKASAN ==
-- Tania: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 3 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Tania: daily=claimed | tasks OK 11/11 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
