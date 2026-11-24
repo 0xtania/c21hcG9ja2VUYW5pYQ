@@ -12,35 +12,37 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Tania =====
-[1]Tania       |11:58:39 | 23-11-2026| login OK @taniaawidiani | score=3430 rank=2259
-[1]Tania       |11:58:39 | 23-11-2026| serverTime=2026-11-23T11:58:39.000Z local=2026-11-23T11:58:39.956Z
+[1]Tania       |13:24:48 | 24-11-2026| login OK @taniaawidiani | score=3450 rank=2259
+[1]Tania       |13:24:48 | 24-11-2026| serverTime=2026-11-24T13:24:48.000Z local=2026-11-24T13:24:48.507Z
 --> [1]Tania menjalankan: Claim Daily
-[1]Tania       |11:58:41 | 23-11-2026| daily: OK +10 poin score=3440
---> [1]Tania menjalankan: Auto All Tasks (1 pending)
-[1]Tania       |11:58:43 | 23-11-2026| [1/1] eae56ca6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"eae56ca6-b809-46e0-af35-8a249af81837","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212473237683641 | proof=https://x.com/taniaawidiani/status/2124834477229725276
-[1]Tania       |11:58:43 | 23-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Tania       |11:58:44 | 23-11-2026| [1/1] eae56ca6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"eae56ca6-b809-46e0-af35-8a249af81837","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2124732376836411 | proof=https://x.com/taniaawidiani/status/2124834498313751133
+[1]Tania       |13:24:49 | 24-11-2026| daily: OK +10 poin score=3460
+--> [1]Tania menjalankan: Auto All Tasks (2 pending)
+[1]Tania       |13:24:51 | 24-11-2026| [1/2] cccd5ab3 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"cccd5ab3-5ad0-4da3-b8ca-e11d4e5a0b0a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212520381338896 | proof=https://x.com/taniaawidiani/status/2125218800871917998
+[1]Tania       |13:24:51 | 24-11-2026| delay 10s...
+[1]Tania       |13:25:03 | 24-11-2026| [2/2] 88b240aa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"cccd5ab3-5ad0-4da3-b8ca-e11d4e5a0b0a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212520381338896 | proof=https://x.com/taniaawidiani/status/2125218853880732586
+[1]Tania       |13:25:03 | 24-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Tania       |13:25:04 | 24-11-2026| [1/1] cccd5ab3 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"cccd5ab3-5ad0-4da3-b8ca-e11d4e5a0b0a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2125203813388960 | proof=https://x.com/taniaawidiani/status/2125218630413740716
 --> [1]Tania menjalankan: Watch Anime
-[1]Tania       |11:58:45 | 23-11-2026| watch: semua video sudah completed
+[1]Tania       |13:25:05 | 24-11-2026| watch: semua video sudah completed
 --> [1]Tania menjalankan: Read Article
-[1]Tania       |11:58:46 | 23-11-2026| news: 34/34 artikel selesai dibaca
-[1]Tania       |11:58:47 | 23-11-2026| mint eligibility: {"userId":"1715409411714465792","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Tania       |11:58:47 | 23-11-2026| news: semua artikel sudah dibaca
+[1]Tania       |13:25:05 | 24-11-2026| news: 34/34 artikel selesai dibaca
+[1]Tania       |13:25:06 | 24-11-2026| mint eligibility: {"userId":"1715409411714465792","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Tania       |13:25:06 | 24-11-2026| news: semua artikel sudah dibaca
 --> [1]Tania menjalankan: Quiz Anime
 --> [1]Tania menjalankan: Music Missions (realtime, bisa lama!)
-[1]Tania       |11:58:48 | 23-11-2026| music: kedua misi sudah tercapai, stop
-[1]Tania       |11:58:48 | 23-11-2026| mission music-listens-10: sudah diklaim
-[1]Tania       |11:58:48 | 23-11-2026| mission music-minutes-30: sudah diklaim
-[1]Tania       |11:58:48 | 23-11-2026| mission anime-completed-3: sudah diklaim
+[1]Tania       |13:25:07 | 24-11-2026| music: kedua misi sudah tercapai, stop
+[1]Tania       |13:25:07 | 24-11-2026| mission music-listens-10: sudah diklaim
+[1]Tania       |13:25:07 | 24-11-2026| mission music-minutes-30: sudah diklaim
+[1]Tania       |13:25:07 | 24-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Tania menjalankan: Claim Missions
-[1]Tania       |11:58:49 | 23-11-2026| mission music-listens-10: sudah diklaim
-[1]Tania       |11:58:49 | 23-11-2026| mission music-minutes-30: sudah diklaim
-[1]Tania       |11:58:49 | 23-11-2026| mission anime-completed-3: sudah diklaim
+[1]Tania       |13:25:08 | 24-11-2026| mission music-listens-10: sudah diklaim
+[1]Tania       |13:25:08 | 24-11-2026| mission music-minutes-30: sudah diklaim
+[1]Tania       |13:25:08 | 24-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Tania menjalankan: Check Eligibility
 
 --- eligibility [1]Tania ---
-  @taniaawidiani | score=3430 rank=2259
-  tasks    [##################--] 7/8
+  @taniaawidiani | score=3450 rank=2259
+  tasks    [##############------] 5/7
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -51,17 +53,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Tania menjalankan: Read Manga
-[1]Tania       |11:58:51 | 23-11-2026| manga: 0/13 chapter belum completed
+[1]Tania       |13:25:10 | 24-11-2026| manga: 0/13 chapter belum completed
 --> [1]Tania menjalankan: Get Gift
-[1]Tania       |11:58:53 | 23-11-2026| gift: 3/12 belum diterima
-[1]Tania       |11:58:54 | 23-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Tania       |11:58:56 | 23-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Tania       |11:58:59 | 23-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Tania       |13:25:11 | 24-11-2026| gift: 3/12 belum diterima
+[1]Tania       |13:25:12 | 24-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Tania       |13:25:15 | 24-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Tania       |13:25:17 | 24-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Tania menjalankan: Setup Profile
-[1]Tania       |11:59:02 | 23-11-2026| profile: bio="https://x.com/taniaawidiani" fav=amato rewardAt=1791686644
-[1]Tania       |11:59:02 | 23-11-2026| profile: bonus sudah diklaim, skip
+[1]Tania       |13:25:20 | 24-11-2026| profile: bio="https://x.com/taniaawidiani" fav=amato rewardAt=1791686644
+[1]Tania       |13:25:20 | 24-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Tania menjalankan: Bind Wallet
-[1]Tania       |11:59:02 | 23-11-2026| wallet: sudah terikat 7VYPktxK9H... (solana)
+[1]Tania       |13:25:20 | 24-11-2026| wallet: sudah terikat 7VYPktxK9H... (solana)
 
 == RINGKASAN ==
-- Tania: daily=claimed | tasks OK 2/2 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
+- Tania: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
